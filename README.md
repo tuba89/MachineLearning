@@ -1,15 +1,13 @@
 # MachineLearning
 Machine Learning case studies
-These is e repo contains all my projects in supervized machine learning and unsupervized machine learning,
+This repo contains all my projects in supervised machine learning and unsupervised machine learning till now.
+
 Case studies of some datasets.
 
   
+ 
 
-
-  
-
-
-   Supervized Machine learning:
+I-   Supervized Machine learning:
   ----------------------------
 
 
@@ -21,7 +19,7 @@ Case studies of some datasets.
   6- apply DecisionTree and random forest alogorithm in titanic dataset and test my models accuracy
   
   
-  UnSupervized Machine learning:
+II-  UnSupervized Machine learning:
   ----------------------------
    
   7- apply hierarchical clustering and k-means clustering in credit card segmentation dataset
